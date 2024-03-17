@@ -1,0 +1,6 @@
+export {default as FeaturedInfo} from './FeaturedInfo'
+export {default as AreaLineChart} from './AreaLineChart'
+export {default as AppPieChart} from './AppPieChart'
+export {default as AppBarChart} from './AppBarChart'
+export {default as RecentOrders} from './RecentOrders'
+export {default as AppLineChart} from './AppLineChart'
